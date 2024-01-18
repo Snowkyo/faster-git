@@ -1,3 +1,5 @@
-这是我对issue102分支下的issue102.md的修改。
+#!/bin/bash
 
-测试测试
+echo "welcome !"
+
+echo "this is main branch."
